@@ -1,0 +1,12 @@
+# single-cell data (~47 GB: 46 .h5ad, 9 .h5, 5 .loom, 1 .rds)
+*.h5ad
+*.h5
+*.loom
+*.rds
+
+# Python / Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+
+# Excel lock files (appear while a workbook is open)
+~$*
