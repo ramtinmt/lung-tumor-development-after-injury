@@ -10,6 +10,6 @@ print("All h5 files converted to h5ad")
 
 
 for file in path.glob('*.loom'):
-    adata = sc.read_loom(file)
+    adata = sc.read_loom(file, X_name='')
     adata.write_h5ad(file.with_suffix('.h5ad'))
 print("All loom files converted to h5ad")
