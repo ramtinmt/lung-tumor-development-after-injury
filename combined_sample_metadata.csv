@@ -1,56 +1,54 @@
-﻿file,bead,sample,type,model,age,original_file,
-C:\Users\G20748795\Desktop\lab\Tumor\WT_1.h5,GSM7110571_control,WT_1,WT,Naïve,3 Months,GSM7110571_control.h5,
-C:\Users\G20748795\Desktop\lab\Tumor\Sox2_1.h5,GSM7110572_Sox2cKO,Sox2_1,Sox2_KO,Sox2 KO,,GSM7110572_Sox2cKO.h5,
-C:\Users\G20748795\Desktop\lab\Tumor\WT_2.h5,NonMesenchyme_d0_Jones_GSM7967314_EEM-scRNA-153,WT_2,WT,Naïve,3 Months,NonMesenchyme_d0_Jones_GSM7967314_EEM-scRNA-153.h5,
-C:\Users\G20748795\Desktop\lab\Tumor\d14_Flu_1.h5,NonMesenchyme_Flu_d14_Jones_EEM-scRNA-160,d14_Flu_1,d14_Flu,Flu,3 Months,NonMesenchyme_Flu_d14_Jones_EEM-scRNA-160.h5,
-C:\Users\G20748795\Desktop\lab\Tumor\d7_I73T_1.h5ad,7_Day_Epithelium_050923,d7_I73T_1,d7_I73T,I73T,3 Months,7_Day_Epithelium_050923.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\d28_I73T_1.h5ad,28_Day_Epithelium_050923,d28_I73T_1,d28_I73T,I73T,3 Months,28_Day_Epithelium_050923.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\d14_I73T_1.h5ad,14_Day_Epithelium_Preprocessed,d14_I73T_1,d14_I73T,I73T,3 Months,14_Day_Epithelium_Preprocessed.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\WT_3.loom,WTAligned_I2JRQ,WT_3,WT,Naïve,3 Months,WTAligned_I2JRQ.loom,
-C:\Users\G20748795\Desktop\lab\Tumor\d28_I73T_2.loom,I73T_W4_1Aligned_B2Q2P,d28_I73T_2,d28_I73T,I73T,3 Months,I73T_W4_1Aligned_B2Q2P.loom,
-C:\Users\G20748795\Desktop\lab\Tumor\d14_I73T_2.loom,I73T_W2_2Aligned_65CTU,d14_I73T_2,d14_I73T,I73T,3 Months,I73T_W2_2Aligned_65CTU.loom,
-C:\Users\G20748795\Desktop\lab\Tumor\d14_I73T_3.loom,I73T_W2_1_t2Aligned_6PQI7,d14_I73T_3,d14_I73T,I73T,3 Months,I73T_W2_1_t2Aligned_6PQI7.loom,
-C:\Users\G20748795\Desktop\lab\Tumor\d28_I73T_3.loom,I73T_W4_2Aligned_55FHE,d28_I73T_3,d28_I73T,I73T,3 Months,I73T_W4_2Aligned_55FHE.loom,
-C:\Users\G20748795\Desktop\lab\Tumor\d28_I73T_4.h5ad,Vehicle_1_022624,d28_I73T_4,d28_I73T,I73T,3 Months,Vehicle_1_022624.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\d28_I73T_5.h5ad,Vehicle_2_022624,d28_I73T_5,d28_I73T,I73T,3 Months,Vehicle_2_022624.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\d14_Flu_2.h5ad,Flu_Day 14_Stripp,d14_Flu_2,d14_Flu,Flu,3 Months,Flu_Day 14_Stripp.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\d7_Flu_1.h5ad,Flu_Day 7_Stripp,d7_Flu_1,d7_Flu,Flu,3 Months,Flu_Day 7_Stripp.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\d21_Flu_1.h5ad,Flu_Day 21_Stripp,d21_Flu_1,d21_Flu,Flu,3 Months,Flu_Day 21_Stripp.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\p63 Trace_d14.h5ad,Day 14_Bleo_p63,p63 Trace_d14,d14_Bleo,Bleo,3 Months,Day 14_Bleo_p63.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\m5_Bleo.h5ad,Month 5_Bleo,m5_Bleo,5 month Bleo,Bleo,3 Months,Month 5_Bleo.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\p63 Trace_m3.h5ad,Month 3_Bleo_p63,p63 Trace_m3,3 month Bleo,Bleo,3 Months,Month 3_Bleo_p63.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\m3_Bleo.h5ad,Month 3_Bleo,m3_Bleo,3 month Bleo,Bleo,3 Months,Month 3_Bleo.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\p63 Trace_m5.h5ad,Month 5_Bleo_p63,p63 Trace_m5,5 month Bleo,Bleo,3 Months,Month 5_Bleo_p63.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\ki67_Flu_1.h5,Tam 7 Day 11_EEM-scRNA-116,ki67_Flu_1,d11_Ki67_Flu,Flu,3 Months,Tam 7 Day 11_EEM-scRNA-116.h5,
-C:\Users\G20748795\Desktop\lab\Tumor\ki67_Flu_2.h5,Tam 2 Day 6_EEM-scRNA-162,ki67_Flu_2,d6_Ki67_Flu,Flu,3 Months,Tam 2 Day 6_EEM-scRNA-162.h5,
-C:\Users\G20748795\Desktop\lab\Tumor\ki67_Flu_3.h5,Tam 2 Day 6_EEM-scRNA-113,ki67_Flu_3,d6_Ki67_Flu,Flu,3 Months,Tam 2 Day 6_EEM-scRNA-113.h5,
-C:\Users\G20748795\Desktop\lab\Tumor\ki67_Flu_4.h5,Tam 14 Day 19_EEM-scRNA-117,ki67_Flu_4,d19_Ki67_Flu,Flu,3 Months,Tam 14 Day 19_EEM-scRNA-117.h5,
-C:\Users\G20748795\Desktop\lab\Tumor\WT_4.h5ad,WT_1,WT_4,WT,Naïve,3 Months,WT_1.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\WT_5.h5ad,WT_2,WT_5,WT,Naïve,3 Months,WT_2.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\WT_6.h5ad,I73T_3M_Naive,WT_6,WT,Naïve,3 Months,I73T_Naive_3M.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\WT_7.h5ad,I73T_18M_Naive,WT_7,WT,Naïve,18 Months,I73T_Naive_18M.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\I73T_Week_4_5.h5ad,I73T_d28_3M_1,I73T_Week_4_5,I73T_Week_4,I73T,3 Months,I73T_d28_3M_1.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\I73T_Week_4_6.h5ad,I73T_d28_3M_2,I73T_Week_4_6,I73T_Week_4,I73T,3 Months,I73T_d28_3M_2.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\I73T_Week_4_18M_1.h5ad,I73T_d28_18M_1,I73T_Week_4_18M_1,I73T_Week_4_18M,I73T,18 Months,I73T_d28_18M_1.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\I73T_Week_4_18M_2.h5ad,I73T_d28_18M_2,I73T_Week_4_18M_2,I73T_Week_4_18M,I73T,18 Months,I73T_d28_18M_2.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\Nerandomilast_3M.h5ad,I73T_d28_Nearndomilast_3M,Nerandomilast_3M,Nerandomilast,Nerandomilast,3 Months,I73T_d28_Neran_3M.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\Nerandomilast_18M.h5ad,I73T_d28_Nearndomilast_18M,Nerandomilast_18M,Nerandomilast_18M,Nerandomilast,18 Months,I73T_d28_Neran_18M.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\KPT_Tumor_Peng_2025.h5ad,KPT_Tumor,KPT_Tumor,KPT_Tumor,KPT,,KPT_Tumor_Peng_2025.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\LA1_Tumor_Arur_2023_1.h5ad,LA1_Tumor_1,LA1_Tumor_1,LA1_Tumor,LA1,,LA1_Tumor_Arur_2023_1.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\LA1_Tumor_Arur_2023_2.h5ad,LA1_Tumor_2,LA1_Tumor_2,LA1_Tumor,LA1,,LA1_Tumor_Arur_2023_2.h5ad,0
-C:\Users\G20748795\Desktop\lab\Tumor\Organoid_Fresh.h5,Organoid_Fresh,Organoid_Fresh,Organoid,Organoid,,Fresh AT2.h5,
-C:\Users\G20748795\Desktop\lab\Tumor\Organoid_Day 4.h5ad,Organoid_Day 4,Organoid_Day 4,Organoid,Organoid,,Day 4_AT2.h5,
-C:\Users\G20748795\Desktop\lab\Tumor\Organoid_Day 7.h5ad,Organoid_Day 7,Organoid_Day 7,Organoid,Organoid,,Day 7_AT2.h5,
-C:\Users\G20748795\Desktop\lab\Tumor\Organoid_Day 10.h5ad,Organoid_Day 10,Organoid_Day 10,Organoid,Organoid,,Day 10_AT2.h5,
-C:\Users\G20748795\Desktop\lab\Tumor\Organoid_Day 14.h5ad,Organoid_Day 14,Organoid_Day 14,Organoid,Organoid,,Day 14_AT2.h5,
-C:\Users\G20748795\Desktop\lab\Tumor\egfr_bsc_10wk_control_trachea.h5ad,egfr_bsc_10wk_control_trachea,egfr_bsc_10wk_control_trachea,egfr_bsc_10wk_control_trachea,egfr Basal,,lineage_obj.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\egfr_bsc_20wk_control_lung.h5ad,egfr_bsc_20wk_control_lung,egfr_bsc_20wk_control_lung,egfr_bsc_20wk_control_lung,egfr Basal,,lineage_obj.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\egfr_bsc_20wk_control_trachea.h5ad,egfr_bsc_20wk_control_trachea,egfr_bsc_20wk_control_trachea,egfr_bsc_20wk_control_trachea,egfr Basal,,lineage_obj.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\egfr_cc10_10wk_control.h5ad,egfr_cc10_10wk_control,egfr_cc10_10wk_control,egfr_cc10_10wk_control,egfr Club,,lineage_obj.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\egfr_cc10_3wk_control.h5ad,egfr_cc10_3wk_control,egfr_cc10_3wk_control,egfr_cc10_3wk_control,egfr Club,,lineage_obj.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\egfr_spc_10wk_control.h5ad,egfr_spc_10wk_control,egfr_spc_10wk_control,egfr_spc_10wk_control,egfr AT2,,lineage_obj.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\egfr_spc_3wk_control.h5ad,egfr_spc_3wk_control,egfr_spc_3wk_control,egfr_spc_3wk_control,egfr AT2,,lineage_obj.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\egfr_spc_3wk_control_pilot.h5ad,egfr_spc_3wk_control_pilot,egfr_spc_3wk_control_pilot,egfr_spc_3wk_control_pilot,egfr AT2,,lineage_obj.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\wt_bsc_10wk_control_trachea.h5ad,wt_bsc_10wk_control_trachea,wt_bsc_10wk_control_trachea,wt_bsc_10wk_control_trachea,wt,,lineage_obj.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\wt_cc10_3wk_control.h5ad,wt_cc10_3wk_control,wt_cc10_3wk_control,wt_cc10_3wk_control,wt,,lineage_obj.h5ad,
-C:\Users\G20748795\Desktop\lab\Tumor\wt_spc_3wk_control.h5ad,wt_spc_3wk_control,wt_spc_3wk_control,wt_spc_3wk_control,wt,,lineage_obj.h5ad,
+﻿file,bead,sample,type,model,age,original_file
+C:\Users\G20748795\Desktop\lab\Tumor\WT_1.h5ad,GSM7110571_control,WT_1,WT,Naïve,3 Months,GSM7110571_control.h5
+C:\Users\G20748795\Desktop\lab\Tumor\Sox2_1.h5ad,GSM7110572_Sox2cKO,Sox2_1,Sox2_KO,Sox2 KO,,GSM7110572_Sox2cKO.h5
+C:\Users\G20748795\Desktop\lab\Tumor\WT_2.h5ad,NonMesenchyme_d0_Jones_GSM7967314_EEM-scRNA-153,WT_2,WT,Naïve,3 Months,NonMesenchyme_d0_Jones_GSM7967314_EEM-scRNA-153.h5
+C:\Users\G20748795\Desktop\lab\Tumor\d14_Flu_1.h5ad,NonMesenchyme_Flu_d14_Jones_EEM-scRNA-160,d14_Flu_1,d14_Flu,Flu,3 Months,NonMesenchyme_Flu_d14_Jones_EEM-scRNA-160.h5
+C:\Users\G20748795\Desktop\lab\Tumor\d14_I73T_1.h5ad,14_Day_Epithelium_Preprocessed,d14_I73T_1,d14_I73T,I73T,3 Months,14_Day_Epithelium_Preprocessed.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\WT_3.h5ad,WTAligned_I2JRQ,WT_3,WT,Naïve,3 Months,WTAligned_I2JRQ.loom
+C:\Users\G20748795\Desktop\lab\Tumor\d28_I73T_2.h5ad,I73T_W4_1Aligned_B2Q2P,d28_I73T_2,d28_I73T,I73T,3 Months,I73T_W4_1Aligned_B2Q2P.loom
+C:\Users\G20748795\Desktop\lab\Tumor\d14_I73T_2.h5ad,I73T_W2_2Aligned_65CTU,d14_I73T_2,d14_I73T,I73T,3 Months,I73T_W2_2Aligned_65CTU.loom
+C:\Users\G20748795\Desktop\lab\Tumor\d14_I73T_3.h5ad,I73T_W2_1_t2Aligned_6PQI7,d14_I73T_3,d14_I73T,I73T,3 Months,I73T_W2_1_t2Aligned_6PQI7.loom
+C:\Users\G20748795\Desktop\lab\Tumor\d28_I73T_3.h5ad,I73T_W4_2Aligned_55FHE,d28_I73T_3,d28_I73T,I73T,3 Months,I73T_W4_2Aligned_55FHE.loom
+C:\Users\G20748795\Desktop\lab\Tumor\d28_I73T_4.h5ad,Vehicle_1_022624,d28_I73T_4,d28_I73T,I73T,3 Months,Vehicle_1_022624.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\d28_I73T_5.h5ad,Vehicle_2_022624,d28_I73T_5,d28_I73T,I73T,3 Months,Vehicle_2_022624.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\d14_Flu_2.h5ad,Flu_Day 14_Stripp,d14_Flu_2,d14_Flu,Flu,3 Months,Flu_Day 14_Stripp.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\d7_Flu_1.h5ad,Flu_Day 7_Stripp,d7_Flu_1,d7_Flu,Flu,3 Months,Flu_Day 7_Stripp.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\d21_Flu_1.h5ad,Flu_Day 21_Stripp,d21_Flu_1,d21_Flu,Flu,3 Months,Flu_Day 21_Stripp.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\p63 Trace_d14.h5ad,Day 14_Bleo_p63,p63 Trace_d14,d14_Bleo,Bleo,3 Months,Day 14_Bleo_p63.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\m5_Bleo.h5ad,Month 5_Bleo,m5_Bleo,5 month Bleo,Bleo,3 Months,Month 5_Bleo.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\p63 Trace_m3.h5ad,Month 3_Bleo_p63,p63 Trace_m3,3 month Bleo,Bleo,3 Months,Month 3_Bleo_p63.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\m3_Bleo.h5ad,Month 3_Bleo,m3_Bleo,3 month Bleo,Bleo,3 Months,Month 3_Bleo.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\p63 Trace_m5.h5ad,Month 5_Bleo_p63,p63 Trace_m5,5 month Bleo,Bleo,3 Months,Month 5_Bleo_p63.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\ki67_Flu_1.h5ad,Tam 7 Day 11_EEM-scRNA-116,ki67_Flu_1,d11_Ki67_Flu,Flu,3 Months,Tam 7 Day 11_EEM-scRNA-116.h5
+C:\Users\G20748795\Desktop\lab\Tumor\ki67_Flu_2.h5ad,Tam 2 Day 6_EEM-scRNA-162,ki67_Flu_2,d6_Ki67_Flu,Flu,3 Months,Tam 2 Day 6_EEM-scRNA-162.h5
+C:\Users\G20748795\Desktop\lab\Tumor\ki67_Flu_3.h5ad,Tam 2 Day 6_EEM-scRNA-113,ki67_Flu_3,d6_Ki67_Flu,Flu,3 Months,Tam 2 Day 6_EEM-scRNA-113.h5
+C:\Users\G20748795\Desktop\lab\Tumor\ki67_Flu_4.h5ad,Tam 14 Day 19_EEM-scRNA-117,ki67_Flu_4,d19_Ki67_Flu,Flu,3 Months,Tam 14 Day 19_EEM-scRNA-117.h5
+C:\Users\G20748795\Desktop\lab\Tumor\WT_4.h5ad,WT_1,WT_4,WT,Naïve,3 Months,WT_1.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\WT_5.h5ad,WT_2,WT_5,WT,Naïve,3 Months,WT_2.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\WT_6.h5ad,I73T_3M_Naive,WT_6,WT,Naïve,3 Months,I73T_Naive_3M.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\WT_7.h5ad,I73T_18M_Naive,WT_7,WT,Naïve,18 Months,I73T_Naive_18M.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\I73T_Week_4_5.h5ad,I73T_d28_3M_1,I73T_Week_4_5,I73T_Week_4,I73T,3 Months,I73T_d28_3M_1.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\I73T_Week_4_6.h5ad,I73T_d28_3M_2,I73T_Week_4_6,I73T_Week_4,I73T,3 Months,I73T_d28_3M_2.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\I73T_Week_4_18M_1.h5ad,I73T_d28_18M_1,I73T_Week_4_18M_1,I73T_Week_4_18M,I73T,18 Months,I73T_d28_18M_1.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\I73T_Week_4_18M_2.h5ad,I73T_d28_18M_2,I73T_Week_4_18M_2,I73T_Week_4_18M,I73T,18 Months,I73T_d28_18M_2.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\Nerandomilast_3M.h5ad,I73T_d28_Nearndomilast_3M,Nerandomilast_3M,Nerandomilast,Nerandomilast,3 Months,I73T_d28_Neran_3M.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\Nerandomilast_18M.h5ad,I73T_d28_Nearndomilast_18M,Nerandomilast_18M,Nerandomilast_18M,Nerandomilast,18 Months,I73T_d28_Neran_18M.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\KPT_Tumor_Peng_2025.h5ad,KPT_Tumor,KPT_Tumor,KPT_Tumor,KPT,,KPT_Tumor_Peng_2025.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\LA1_Tumor_Arur_2023_1.h5ad,LA1_Tumor_1,LA1_Tumor_1,LA1_Tumor,LA1,,LA1_Tumor_Arur_2023_1.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\LA1_Tumor_Arur_2023_2.h5ad,LA1_Tumor_2,LA1_Tumor_2,LA1_Tumor,LA1,,LA1_Tumor_Arur_2023_2.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\Organoid_Fresh.h5ad,Organoid_Fresh,Organoid_Fresh,Organoid,Organoid,,Fresh AT2.h5
+C:\Users\G20748795\Desktop\lab\Tumor\Organoid_Day 4.h5ad,Organoid_Day 4,Organoid_Day 4,Organoid,Organoid,,Day 4_AT2.h5
+C:\Users\G20748795\Desktop\lab\Tumor\Organoid_Day 7.h5ad,Organoid_Day 7,Organoid_Day 7,Organoid,Organoid,,Day 7_AT2.h5
+C:\Users\G20748795\Desktop\lab\Tumor\Organoid_Day 10.h5ad,Organoid_Day 10,Organoid_Day 10,Organoid,Organoid,,Day 10_AT2.h5
+C:\Users\G20748795\Desktop\lab\Tumor\Organoid_Day 14.h5ad,Organoid_Day 14,Organoid_Day 14,Organoid,Organoid,,Day 14_AT2.h5
+C:\Users\G20748795\Desktop\lab\Tumor\egfr_bsc_10wk_control_trachea.h5ad,egfr_bsc_10wk_control_trachea,egfr_bsc_10wk_control_trachea,egfr_bsc_10wk_control_trachea,egfr Basal,,lineage_obj.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\egfr_bsc_20wk_control_lung.h5ad,egfr_bsc_20wk_control_lung,egfr_bsc_20wk_control_lung,egfr_bsc_20wk_control_lung,egfr Basal,,lineage_obj.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\egfr_bsc_20wk_control_trachea.h5ad,egfr_bsc_20wk_control_trachea,egfr_bsc_20wk_control_trachea,egfr_bsc_20wk_control_trachea,egfr Basal,,lineage_obj.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\egfr_cc10_10wk_control.h5ad,egfr_cc10_10wk_control,egfr_cc10_10wk_control,egfr_cc10_10wk_control,egfr Club,,lineage_obj.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\egfr_cc10_3wk_control.h5ad,egfr_cc10_3wk_control,egfr_cc10_3wk_control,egfr_cc10_3wk_control,egfr Club,,lineage_obj.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\egfr_spc_10wk_control.h5ad,egfr_spc_10wk_control,egfr_spc_10wk_control,egfr_spc_10wk_control,egfr AT2,,lineage_obj.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\egfr_spc_3wk_control.h5ad,egfr_spc_3wk_control,egfr_spc_3wk_control,egfr_spc_3wk_control,egfr AT2,,lineage_obj.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\egfr_spc_3wk_control_pilot.h5ad,egfr_spc_3wk_control_pilot,egfr_spc_3wk_control_pilot,egfr_spc_3wk_control_pilot,egfr AT2,,lineage_obj.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\wt_bsc_10wk_control_trachea.h5ad,wt_bsc_10wk_control_trachea,wt_bsc_10wk_control_trachea,wt_bsc_10wk_control_trachea,wt,,lineage_obj.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\wt_cc10_3wk_control.h5ad,wt_cc10_3wk_control,wt_cc10_3wk_control,wt_cc10_3wk_control,wt,,lineage_obj.h5ad
+C:\Users\G20748795\Desktop\lab\Tumor\wt_spc_3wk_control.h5ad,wt_spc_3wk_control,wt_spc_3wk_control,wt_spc_3wk_control,wt,,lineage_obj.h5ad
