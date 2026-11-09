@@ -8,5 +8,5 @@
 __pycache__/
 .ipynb_checkpoints/
 
-# Excel lock files (appear while a workbook is open)
 ~$*
+integration/
